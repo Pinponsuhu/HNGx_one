@@ -1,0 +1,6 @@
+package com.example.pinponsuhu_slack
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
